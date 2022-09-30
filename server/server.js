@@ -12,7 +12,7 @@ const credentials = {
     host: '127.0.0.1',
     user: 'root',
     password: 'password',
-    dataset: 'FHIR'
+    database: 'FHIR'
 }
 
 app.get('/', (req, res) => {
