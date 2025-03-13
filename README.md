@@ -1,4 +1,3 @@
-# SYUE-MIN 頑張ってくださいね！！
 ## 跑後端步驟: 
 1. 到server資料夾底下
 2. 終端機執行「node server.js」
